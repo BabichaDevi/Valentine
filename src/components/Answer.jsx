@@ -94,7 +94,6 @@ const Answer = ({ onYes }) => {
               onMouseEnter={handleNoHover}
               onTouchStart={handleNoHover}
               onTouchMove={handleNoHover}
-              onClick={() => alert('Oh no! You clicked No')}
             >
               No
             </button>
