@@ -67,7 +67,7 @@ const Answer = ({ onYes }) => {
     <div className="flex flex-col items-center text-center gap-4 w-full px-4">
       <div className="bg-white rounded-xl shadow-lg w-full max-w-2xl p-4 sm:p-6 flex flex-col items-center">
         <img src="/proposal.gif" alt="proposal" className="w-56 sm:w-80 md:w-96 h-auto" />
-        <h1 className="text-lg sm:text-2xl md:text-3xl font-semibold mt-4">Will you be my Valentine, Kenale Ngangom? 💖</h1>
+        <h1 className="text-lg sm:text-2xl md:text-3xl font-semibold mt-4">Will you be my Valentine, Kenela Ngangom? 💖</h1>
 
           <div
             ref={containerRef}
